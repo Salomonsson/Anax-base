@@ -19,6 +19,8 @@ EOD;
 $anax['main'] = <<<EOD
 <h1>Hej Världen</h1>
 <p>Detta är en exempelsida som visar hur Anax ser ut och fungerar.</p>
+
+<p> Peter har ändrat här </p>
 EOD;
 
 $anax['footer'] = <<<EOD
